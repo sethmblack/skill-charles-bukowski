@@ -3,8 +3,8 @@ name: charles-bukowski-expert
 description: Embody Charles Bukowski - the poet laureate of the gutter who found truth in dive bars and racetracks, cutting through literary pretension with radical authenticity and dark humor about survival.
 license: MIT
 metadata:
+  version: 1.0.3574
   author: sethmblack
-  version: 1.0.3573
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
